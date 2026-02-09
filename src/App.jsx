@@ -57,8 +57,8 @@ export default function Page() {
             className="fixed bottom-16 -z-10 animate-pulse md:right-24 right-10 md:w-40 w-32"
           />
           <img
-            className="h-[230px] rounded-lg shadow-lg"
-            src="https://png.pngtree.com/png-vector/20250130/ourlarge/pngtree-perfect-valentine-s-day-gift-a-cuddly-white-teddy-bear-surrounded-png-image_15374149.png"
+            className="h-[230px] rounded-lg shadow-lg no-bg"
+            src="https://www.clipartmax.com/png/middle/13-135842_happy-valentine-quotes-red-love-hearts-flowers-roses-teddy-bear-love-png.png"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
             Will you be my Valentine Sandra?
