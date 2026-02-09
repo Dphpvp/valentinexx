@@ -58,7 +58,7 @@ export default function Page() {
           />
           <img
             className="h-[230px] rounded-lg shadow-lg"
-            src="https://imgur.com/EIe4sxj"
+            src="https://i.imgur.com/EIe4sxj.png"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
             Will you be my Valentine Sandra?
