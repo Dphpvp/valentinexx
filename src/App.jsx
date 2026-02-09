@@ -58,7 +58,7 @@ export default function Page() {
           />
           <img
             className="h-[230px] rounded-lg shadow-lg"
-            src="https://i.postimg.cc/LsG2Jx9z/13-135842-happy-valentine-quotes-red-love-hearts-flowers-roses-teddy-bear-love-png-removebg-preview.png"
+            src="https://imgur.com/EIe4sxj"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
             Will you be my Valentine Sandra?
