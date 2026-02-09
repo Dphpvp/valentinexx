@@ -58,7 +58,7 @@ export default function Page() {
           />
           <img
             className="h-[230px] rounded-lg shadow-lg"
-            src="https://gifdb.com/images/high/cute-Love-bear-roses-ou7zho5oosxnpo6k.gif"
+            src="https://png.pngtree.com/png-vector/20250130/ourlarge/pngtree-perfect-valentine-s-day-gift-a-cuddly-white-teddy-bear-surrounded-png-image_15374149.png"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
             Will you be my Valentine Sandra?
